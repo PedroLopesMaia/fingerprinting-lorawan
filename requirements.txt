@@ -1,5 +1,0 @@
-tensorflow
-keras
-scikit-learn
-pandas
-geopy
